@@ -1,0 +1,5 @@
+Thabo Kgomo,78,B
+Lefa kato,92,A
+Allen Meti,85,A
+Mary Tumelo,88,A
+David Onkemetse,71,B
