@@ -1,0 +1,2 @@
+Positive total: 126292 (496 numbers)
+Negative total: -125373 (502 numbers)
