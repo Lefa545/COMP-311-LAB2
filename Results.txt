@@ -1,0 +1,25 @@
+Student 1:
+  Enter name: Thabo Kgomo
+  Enter score: 78
+  Record saved.
+
+Student 2:
+  Enter name: Alice Modise
+  Enter score: 92
+  Record saved.
+
+Student 3:
+  Enter name: John Smith
+  Enter score: 65
+  Record saved.
+
+Student 4:
+  Enter name: Mary Mokoena
+  Enter score: 88
+  Record saved.
+
+Student 5:
+  Enter name: David Ndlovu
+  Enter score: 71
+  Record saved.
+
